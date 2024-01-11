@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'HalmLab Registry',
+    name: 'HalmLab',
     description: 'HalmLab Private Kasm Workspace Registry',
     icon: '/img/logo.svg',
-    listUrl: 'https://sascha-halm-anfman.github.io/kasm-registry',
+    listUrl: 'https://sascha-halm-anfman.github.io/kasm-registry/',
     contactUrl: 'https://sascha-halm-anfman.github.io/kasm-registry/issues',
   },
   reactStrictMode: true,
