@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'HalmLab Registry',
     description: 'HalmLab Private Kasm Workspace Registry',
     icon: '/img/logo.svg',
-    listUrl: 'https://sascha-halm-anfman.github.io/kasm-registry/',
+    listUrl: 'https://sascha-halm-anfman.github.io/',
     contactUrl: 'https://sascha-halm-anfman.github.io/kasm-registry/issues',
   },
   reactStrictMode: true,
